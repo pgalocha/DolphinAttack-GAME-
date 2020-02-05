@@ -5,6 +5,4 @@ Conseguindo derrotar o final Boss, consegue-se o objetivo e o jogo acaba.
 
 # Specs
 - Projeto desenvolvido na framework XNA no VisualStudio
-    - Línguagem de programação : C#
-
-Para mais informações contactar-me! 
+    - Línguagem de programação : C# 
